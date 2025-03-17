@@ -1,5 +1,5 @@
-FROM ubuntu:latest
-RUN apt update && apt install -y g++ cmake libboost-all-dev libssl-dev
+FROM osx-cross:latest
+RUN brew install cmake boost
 WORKDIR /app
 COPY . .
 RUN cmake . && make

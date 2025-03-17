@@ -1,3 +1,4 @@
-/Users/anton/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir
+/Users/anton/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/server.dir
+/Users/anton/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/client.dir
 /Users/anton/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/anton/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

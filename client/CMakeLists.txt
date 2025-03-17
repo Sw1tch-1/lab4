@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 3.29)
-project(client)
-find_package(Boost REQUIRED COMPONENTS system)
-add_executable(client client.cpp)
-target_link_libraries(client Boost::system)

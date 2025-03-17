@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 3.29)
-project(server)
-find_package(Boost REQUIRED COMPONENTS system)
-add_executable(server server.cpp)
-target_link_libraries(server Boost::system)
